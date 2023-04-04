@@ -1,5 +1,5 @@
 # **Square Root and Cube Root Calculator**
-This is a simple Python script that uses the math module to calculate the square root or cube root of a user-specified value..
+This is a simple Python script that uses the math module to calculate the square root or cube root of a user-specified value.
 
 ## Square Root Usage
 1.	Execute the script in the Python environment.
